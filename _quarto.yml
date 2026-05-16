@@ -12,27 +12,6 @@ book:
 
   chapters:
     - index.qmd
-    - part: "Círculo I — O Eu Interior (Logos)"
-      chapters:
-        - chapters/01-nao-es-o-que-te-acontece.qmd
-        - chapters/02-a-opiniao-que-formas.qmd
-        - chapters/04-sobre-o-que-e-verdadeiramente-bom.qmd
-        - chapters/10-a-admiracao-e-uma-forma-de-inteligencia.qmd
-    - part: "Círculo II — Com os Outros (Ethos)"
-      chapters:
-        - chapters/03-a-coragem-nao-e-a-ausencia-do-medo.qmd
-        - chapters/05-como-tratar-um-estranho.qmd
-        - chapters/06-suficiente.qmd
-        - chapters/07-sobre-o-amor-e-as-suas-exigencias.qmd
-        - chapters/11-sobre-o-corpo.qmd
-        - chapters/12-o-que-deves-a-beleza.qmd
-        - chapters/13-a-comunidade-a-que-pertences.qmd
-    - part: "Círculo III — No Mundo (Cosmos)"
-      chapters:
-        - chapters/08-sobre-o-fracasso.qmd
-        - chapters/09-vais-morrer-vive-agora.qmd
-        - chapters/14-sobre-a-paciencia.qmd
-        - chapters/15-uma-carta-sem-palavras.qmd
 
 format:
   html:

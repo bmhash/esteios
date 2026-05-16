@@ -1,9 +1,12 @@
 ---
 title: ""
+format:
+  html:
+    minimal: true
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; min-height: 70vh; font-family: 'Crimson Text', Georgia, serif;">
-  <h1 style="font-size: 3rem; font-weight: 300; color: #2a2a2a; letter-spacing: 0.1em;">
+<div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; background: white; margin: 0; padding: 0;">
+  <h1 style="font-size: 3rem; font-weight: 300; color: #2a2a2a; letter-spacing: 0.1em; font-family: 'Crimson Text', Georgia, serif;">
     Paciência
   </h1>
 </div>

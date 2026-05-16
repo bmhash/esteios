@@ -7,28 +7,37 @@
 .nav-footer,
 .nav-page,
 #TOC,
-.toc-actions {
+.toc-actions,
+#quarto-header,
+.quarto-title-block {
   display: none !important;
 }
 
-/* Make content full width without sidebar */
-.page-columns {
-  grid-template-columns: 1fr !important;
+/* Reset all margins and padding */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
 }
 
-body.quarto-light {
-  margin: 0;
-  padding: 0;
-}
-
-/* Ensure main content takes full width */
-main.content {
+/* Make everything full width and centered */
+.page-columns,
+#quarto-content,
+main.content,
+.quarto-container,
+#quarto-margin-sidebar,
+#quarto-sidebar {
+  display: block !important;
   max-width: 100% !important;
+  width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-#quarto-content {
-  padding: 0 !important;
+/* Center the actual content div */
+main.content > div {
+  width: 100% !important;
   margin: 0 !important;
+  padding: 0 !important;
 }
