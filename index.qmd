@@ -1,25 +1,9 @@
 ---
-title: "Para Ti"
+title: ""
 ---
 
-::: {.epigraph}
-*«O processo natural de transmissão de geração em geração assegura a perpetuação das características físicas... mas a educação é elevada a uma potência muito superior pelo esforço deliberado do conhecimento e da vontade humana para atingir um fim conhecido.»*
-
-— Werner Jaeger, *Paideia*
-:::
-
-Este livro não é um manual. Não é um conjunto de regras. Não é um testamento.
-
-É uma tentativa — imperfeita, inacabada, honesta — de pôr em palavras aquilo que sei ser verdade. Não porque o mundo mo disse, mas porque o vivi, o pensei, e decidi que merecia ser transmitido.
-
-Marco Aurélio escreveu as suas *Meditações* para si mesmo — notas privadas sobre como viver, nunca destinadas ao mundo. Eu escrevo para ti. Com a mesma qualidade de honestidade, de directeza, e de ausência de performance.
-
-Não espero que concordes com tudo. Espero que, num momento de confusão ou de dor, alguma destas linhas te lembre de quem és quando ninguém está a ver.
-
-O livro está organizado em três círculos — do eu interior para os outros, dos outros para o mundo:
-
-- **Logos** — quem és quando estás sozinha com os teus pensamentos
-- **Ethos** — como te encontras com os outros e com o mundo
-- **Cosmos** — como te situas num universo maior do que tu
-
-Não há pressa. Lê quando quiseres. Relê quando precisares. E se um dia achares que isto já não te serve — isso também está certo. O melhor que este livro pode fazer é, eventualmente, tornar-se desnecessário.
+<div style="display: flex; justify-content: center; align-items: center; min-height: 70vh; font-family: 'Crimson Text', Georgia, serif;">
+  <h1 style="font-size: 3rem; font-weight: 300; color: #2a2a2a; letter-spacing: 0.1em;">
+    Paciência
+  </h1>
+</div>

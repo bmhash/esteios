@@ -1,4 +1,4 @@
-# Brain Drafts
+# Esteios
 
 **Notas para a minha filha** — Um livro filosófico estruturado em torno da Paideia e da tradição estóica.
 

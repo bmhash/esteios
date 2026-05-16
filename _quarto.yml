@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Brain Drafts"
+  title: "Esteios"
   subtitle: "Notas para a minha filha"
   author: "bmhash"
   date: today
