@@ -1,0 +1,17 @@
+---
+title: "A comunidade a que pertences"
+---
+
+::: {.epigraph}
+*«O homem é por natureza um animal político.»*
+
+— Aristóteles
+:::
+
+::: {.concept}
+**Âncora Estóica:** *Polis*, pertença, dever cívico  
+**Conceito Grego:** *Koinonia* (comunidade, partilha)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

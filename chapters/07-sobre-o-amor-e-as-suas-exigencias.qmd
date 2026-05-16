@@ -1,0 +1,15 @@
+---
+title: "Sobre o amor e as suas exigências"
+---
+
+::: {.epigraph}
+*«O amor não é apenas um sentimento. É um acto de vontade.»*
+:::
+
+::: {.concept}
+**Âncora Estóica:** O amor como sacrifício  
+**Conceito Grego:** *Philia* / *Eros* (amizade profunda / amor)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

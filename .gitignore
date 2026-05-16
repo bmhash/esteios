@@ -1,3 +1,9 @@
-/public
-README.md
-QUICK_START.md
+/.quarto/
+/_book/
+/_site/
+/.luarc.json
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.log

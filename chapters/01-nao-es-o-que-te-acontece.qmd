@@ -1,0 +1,17 @@
+---
+title: "Não és o que te acontece"
+---
+
+::: {.epigraph}
+*«Não são os acontecimentos que perturbam as pessoas; são os julgamentos que fazem sobre eles.»*
+
+— Marco Aurélio
+:::
+
+::: {.concept}
+**Âncora Estóica:** Dicotomia do Controlo  
+**Conceito Grego:** *Prohairesis* (escolha moral, vontade)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

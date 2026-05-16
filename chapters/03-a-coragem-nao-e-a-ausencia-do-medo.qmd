@@ -1,0 +1,17 @@
+---
+title: "A coragem não é a ausência do medo"
+---
+
+::: {.epigraph}
+*«De que vale a coragem se não está ao serviço da justiça?»*
+
+— Séneca
+:::
+
+::: {.concept}
+**Âncora Estóica:** A virtude da *Andreia* (coragem)  
+**Conceito Grego:** *Areté* (excelência, virtude)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

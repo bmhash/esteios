@@ -1,0 +1,17 @@
+---
+title: "Sobre o corpo"
+---
+
+::: {.epigraph}
+*«Nenhuma alma pode alcançar a excelência sem um corpo saudável.»*
+
+— Platão
+:::
+
+::: {.concept}
+**Âncora Estóica:** *Areté* física, a saúde como disciplina  
+**Conceito Grego:** *Sophrosyne* (moderação, equilíbrio)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

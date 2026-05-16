@@ -1,0 +1,17 @@
+---
+title: "Sobre a paciência"
+---
+
+::: {.epigraph}
+*«O tempo é um rio de acontecimentos que passam, e forte é a sua corrente.»*
+
+— Marco Aurélio
+:::
+
+::: {.concept}
+**Âncora Estóica:** O tempo como mestre  
+**Conceito Grego:** *Kairos* vs *Chronos* (momento certo vs tempo cronológico)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

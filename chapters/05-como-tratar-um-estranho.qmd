@@ -1,0 +1,17 @@
+---
+title: "Como tratar um estranho"
+---
+
+::: {.epigraph}
+*«O que não é bom para a colmeia não pode ser bom para a abelha.»*
+
+— Marco Aurélio
+:::
+
+::: {.concept}
+**Âncora Estóica:** Justiça e o bem comum  
+**Conceito Grego:** *Dikaiosynê* (justiça)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

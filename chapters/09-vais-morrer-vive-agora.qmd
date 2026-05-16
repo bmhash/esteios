@@ -1,0 +1,17 @@
+---
+title: "Vais morrer; vive agora"
+---
+
+::: {.epigraph}
+*«Podes sair da vida agora. Deixa que isso determine o que fazes, dizes e pensas.»*
+
+— Marco Aurélio
+:::
+
+::: {.concept}
+**Âncora Estóica:** *Memento Mori* (lembra-te que vais morrer)  
+**Conceito Grego:** *Kairos* (o momento certo, o agora)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

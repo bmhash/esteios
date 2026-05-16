@@ -1,0 +1,17 @@
+---
+title: "Suficiente"
+---
+
+::: {.epigraph}
+*«A riqueza consiste não em ter grandes posses, mas em ter poucas necessidades.»*
+
+— Epicteto
+:::
+
+::: {.concept}
+**Âncora Estóica:** Temperança e moderação  
+**Conceito Grego:** *Sôphrosynê* (autodomínio, temperança)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

@@ -1,0 +1,12 @@
+---
+title: "Uma carta sem palavras"
+---
+
+::: {.epigraph}
+*«A posse que ninguém pode tirar ao homem é a paideia.»*
+
+— Menandro
+:::
+
+<!-- A dedicatória final -->
+

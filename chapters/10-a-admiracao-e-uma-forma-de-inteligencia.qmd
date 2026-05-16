@@ -1,0 +1,17 @@
+---
+title: "A admiração é uma forma de inteligência"
+---
+
+::: {.epigraph}
+*«A filosofia começa na admiração.»*
+
+— Platão
+:::
+
+::: {.concept}
+**Âncora Estóica:** A vida examinada  
+**Conceito Grego:** *Thaumazein* (admiração, espanto)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

@@ -1,0 +1,17 @@
+---
+title: "A opinião que formas é a ferida"
+---
+
+::: {.epigraph}
+*«Retira a tua opinião, e retiras a queixa 'fui ferido'. Retira a queixa 'fui ferido', e a ferida desaparece.»*
+
+— Marco Aurélio
+:::
+
+::: {.concept}
+**Âncora Estóica:** Disciplina do Assentimento  
+**Conceito Grego:** *Logos* (razão, palavra interior)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

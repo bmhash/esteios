@@ -1,0 +1,17 @@
+---
+title: "O que deves à beleza"
+---
+
+::: {.epigraph}
+*«A beleza é o esplendor da verdade.»*
+
+— Platão
+:::
+
+::: {.concept}
+**Âncora Estóica:** Arte, música, admiração no mundo  
+**Conceito Grego:** *Kallos* (beleza)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

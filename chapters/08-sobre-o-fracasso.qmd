@@ -1,0 +1,17 @@
+---
+title: "Sobre o fracasso"
+---
+
+::: {.epigraph}
+*«Não desejes que as coisas aconteçam como queres. Deseja que aconteçam como acontecem, e viverás bem.»*
+
+— Epicteto
+:::
+
+::: {.concept}
+**Âncora Estóica:** *Amor Fati* (amor ao destino)  
+**Conceito Grego:** *Telos* (propósito, fim)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+

@@ -1,0 +1,17 @@
+---
+title: "Sobre o que é verdadeiramente bom"
+---
+
+::: {.epigraph}
+*«A virtude é o único bem verdadeiro.»*
+
+— Zenão de Cítio
+:::
+
+::: {.concept}
+**Âncora Estóica:** A virtude como único bem  
+**Conceito Grego:** *Eudaimonia* (florescimento humano)
+:::
+
+<!-- Escreve aqui o conteúdo do capítulo -->
+
