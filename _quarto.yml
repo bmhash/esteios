@@ -1,26 +1,16 @@
 project:
-  type: book
-  output-dir: _book
+  type: website
+  output-dir: _site
 
-book:
+website:
   title: "Esteios"
-  subtitle: "Notas para a minha filha"
-  author: "bmhash"
-  date: today
-  date-format: "D MMMM YYYY"
-  language: pt
-
-  chapters:
-    - index.qmd
 
 format:
   html:
-    theme: 
-      - litera
-      - styles/typography.scss
-    css: styles/landing.css
+    theme: none
+    css: styles/minimal.css
     toc: false
     number-sections: false
     lang: pt
-    link-external-newwindow: true
-    page-navigation: false
+    minimal: true
+    page-layout: custom

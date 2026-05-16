@@ -1,12 +1,16 @@
 ---
-title: ""
-format:
-  html:
-    minimal: true
+pagetitle: "Esteios"
 ---
 
-<div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; background: white; margin: 0; padding: 0;">
-  <h1 style="font-size: 3rem; font-weight: 300; color: #2a2a2a; letter-spacing: 0.1em; font-family: 'Crimson Text', Georgia, serif;">
-    Paciência
-  </h1>
-</div>
+<html>
+<head>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 100%; height: 100%; overflow: hidden; background: white; }
+body { display: flex; justify-content: center; align-items: center; }
+</style>
+</head>
+<body>
+<h1 style="font-size: 3rem; font-weight: 300; color: #2a2a2a; letter-spacing: 0.1em; font-family: 'Crimson Text', Georgia, serif;">Paciência</h1>
+</body>
+</html>
