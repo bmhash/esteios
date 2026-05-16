@@ -49,23 +49,3 @@ format:
     margin-left: "15%"
     margin-right: "15%"
     link-external-newwindow: true
-
-  pdf:
-    documentclass: book
-    papersize: a5
-    fontsize: 11pt
-    mainfont: "EB Garamond"
-    linestretch: 1.5
-    margin-left: 2.5cm
-    margin-right: 2.5cm
-    margin-top: 3cm
-    margin-bottom: 3cm
-    toc: true
-    number-sections: false
-    lang: pt
-    colorlinks: false
-
-  epub:
-    toc: true
-    number-sections: false
-    lang: pt
