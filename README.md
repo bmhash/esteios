@@ -29,22 +29,60 @@ Inspirado nas *Meditações* de Marco Aurélio, no *Encheirídion* de Epicteto, 
 
 Os capítulos estão escritos mas não publicados. Ficheiros em `.quartoignore` não são incluídos no deploy.
 
-## Workflow de Escrita
+## Workflow de Escrita com AI
 
-### Para escrever (sem publicar)
+Este projeto tem suporte completo de AI através do Windsurf/Cascade para assistir na escrita.
+
+### Iniciar uma sessão de escrita
 
 ```bash
-# Editar capítulos
-code chapters/01-nao-es-o-que-te-acontece.qmd
-
-# Preview local (apenas tu vês)
-quarto preview
-
-# Commit local (não publica)
-git add .
-git commit -m "draft: capítulo X"
-git push
+/new-session
 ```
+
+O AI irá:
+- Verificar o estado do projeto
+- Mostrar quais capítulos estão completos
+- Sugerir o que trabalhar a seguir
+
+### Durante a escrita
+
+**O AI nunca reescreve a tua prosa.** O papel do AI é:
+- Encontrar citações estoicas (`/extract-quote`)
+- Verificar termos gregos e transliterações
+- Ajudar com estrutura de capítulos
+- Fornecer contagem de palavras
+- Sugerir referências cruzadas
+
+### Criar um novo capítulo
+
+```bash
+/new-chapter
+```
+
+Cria a estrutura do capítulo com epígrafe, caixa de conceito, e espaço para prosa.
+
+### Preview local
+
+```bash
+/preview
+```
+
+Ou manualmente:
+```bash
+quarto preview
+```
+
+### Terminar a sessão
+
+```bash
+/finish-session
+```
+
+O AI irá:
+- Verificar alterações não commitadas
+- Mostrar contagem de palavras
+- Fazer commit e push
+- Resumir o progresso
 
 **Importante:** Fazer `git push` **não publica automaticamente**. O deploy é manual.
 
@@ -129,7 +167,11 @@ Quando estiveres pronto para publicar o livro:
 ### Para publicar apenas a página placeholder
 
 ```bash
-# Trigger manual deployment (estado atual)
+/publish
+```
+
+Ou manualmente:
+```bash
 gh workflow run "Publish Quarto Book to GitHub Pages"
 ```
 
@@ -153,6 +195,26 @@ quarto render --to html
 quarto install tinytex
 quarto render --to pdf
 ```
+
+## Suporte AI — Workflows Disponíveis
+
+O projeto tem configuração completa do Windsurf para assistência na escrita:
+
+- **`/new-session`** — Iniciar sessão de escrita
+- **`/finish-session`** — Terminar sessão (commit, word count, resumo)
+- **`/new-chapter`** — Criar novo capítulo com estrutura
+- **`/extract-quote`** — Encontrar citações das Meditações ou Paideia
+- **`/preview`** — Iniciar servidor de preview local
+- **`/publish`** — Publicar estado atual (placeholder)
+- **`/publish-book`** — Mudar para publicação do livro completo
+
+### Regras AI Activas
+
+- **Português Europeu (PT-PT)** com ortografia antiga preferida (acção, direcção, óptimo)
+- **Preservação da voz** — AI nunca reescreve prosa
+- **Textos fonte indexados** — Meditações (inglês), Paideia (português brasileiro)
+- **Salvaguardas anti-alucinação** — Verificação de citações e termos gregos
+- **Papel do AI** — Companheiro de escrita, não ghostwriter
 
 ## Princípios de Design
 
